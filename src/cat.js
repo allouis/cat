@@ -5,7 +5,7 @@ export class Cat {
   }
 
   meow() {
-    'MROW'
+    return 'MROW'
   }
 
   destroyTheHouse() {
@@ -13,7 +13,7 @@ export class Cat {
   }
 
   eat() {
-    'nom nom nom'
+    return 'nom nom nom'
   }
 
   sleep(callback) {
