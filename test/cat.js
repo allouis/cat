@@ -1,4 +1,4 @@
-var test = require('tap');
+var test = require('tape');
 var Cat = require('../build/Cat').Cat;
 
 test('Cat', function (cat) {
