@@ -1,0 +1,23 @@
+{
+  "name": "cat-class",
+  "version": "0.0.0",
+  "description": "A cat - in ES6",
+  "main": "lib/cat.js",
+  "scripts": {
+    "test": "node_modules/tape/bin/tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:allouis/cat"
+  },
+  "keywords": [
+    "cat",
+    "class"
+  ],
+  "author": "Fabien O'Carroll <fabien@allou.is> (http://allou.is/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/allouis/cat/issues"
+  },
+  "homepage": "https://github.com/allouis/cat"
+}
