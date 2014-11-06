@@ -1,5 +1,5 @@
 var test = require('tap');
-var Cat = require('../build/Cat');
+var Cat = require('../build/Cat').Cat;
 
 test('Cat', function (cat) {
 
