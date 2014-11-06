@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/allouis/cat/issues"
   },
-  "homepage": "https://github.com/allouis/cat"
+  "homepage": "https://github.com/allouis/cat",
+  "devDependencies": {
+    "tape": "~3.0.2"
+  }
 }
