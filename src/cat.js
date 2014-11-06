@@ -5,7 +5,7 @@ export class Cat {
   }
 
   meow() {
-    return 'MROW'
+    return 'MEOW'
   }
 
   destroyTheHouse() {
